@@ -6,11 +6,17 @@ Remember, there are "no one does it all" rule when it comes to a Pseudocode.
 The simpler-the better.
 
 Some Key Points to note while writing a Pseudo code includes;
+
 A. Capitalize key command
+
 B. Use Identation.
+
 C. Code itself is hard enough, keep it simple.
+
 D. Be Specific
+
 E. Be concise
+
 
 Attached herein are two examples of Pseudocodes in flow chat to explain the below:
 
