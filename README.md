@@ -14,7 +14,7 @@ E. Be concise
 
 Attached herein are two examples of Pseudocodes in flow chat to explain the below:
 
-Example 1: PseudoCode to calaculate Sum of Squares of any Given Number N
+Example 1: PseudoCode to calculate Sum of Squares of any Given Number N
 Read n
 For n = natural numbers
 
