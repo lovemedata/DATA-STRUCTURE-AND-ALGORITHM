@@ -49,11 +49,24 @@ Example 2: PseudoCode to  calculate a running sum. A user will enter numbers tha
 sum and when a negative number is encountered, stop adding numbers and write out the final result.
 
 Read n
-
 Set sum to 0;
-
 While(n >= 0)
-
 Set sum to n + sum
- 
 Read n
+
+
+Example 3: Pseudocode that reads in three numbers and writes them all in sorted order.
+
+Read A, B, C
+If (A < B < C)
+ Write A , B, C
+else If (A < C < B)
+ Write A , C, B
+else If (B < A < C)
+ Write B , A, C
+else If (B < C < A)
+ Write B , C, A
+else If (C < A < B)
+ Write C , A, B
+else If (C < B< A)
+ Write C , B, A
