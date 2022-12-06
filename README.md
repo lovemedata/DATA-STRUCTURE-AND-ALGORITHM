@@ -20,6 +20,7 @@ E. Be concise
 
 Attached herein are two examples of Pseudocodes in flow chat to explain the below:
 
+
 Example 1: PseudoCode to calculate Sum of Squares of any Given Number N
 Read n
 For n = natural numbers
@@ -45,6 +46,7 @@ write "Sum of squares of n natural numbers is"
 [n(n+1)(2n+1)] / 6
 
 
+
 Example 2: PseudoCode to  calculate a running sum. A user will enter numbers that will be added to the
 sum and when a negative number is encountered, stop adding numbers and write out the final result.
 
@@ -57,6 +59,7 @@ While(n >= 0)
 Set sum to n + sum
 
 Read n
+
 
 
 Example 3: Pseudocode that reads in three numbers and writes them all in sorted order.
